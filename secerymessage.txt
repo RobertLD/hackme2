@@ -1,0 +1,7 @@
+Hello tommy! No one will ever figure out my password is the base64 encoded answer to this question found at this link.
+
+Just to make sure you never download it, DONT run this command
+
+
+
+wget git https://github.com/RobertLD/hackme2/secert.txt
